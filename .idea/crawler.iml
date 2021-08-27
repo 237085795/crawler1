@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/pic" />
+      <excludeFolder url="file://$MODULE_DIR$/xiyouji" />
+      <excludeFolder url="file://$MODULE_DIR$/jianlai" />
+      <excludeFolder url="file://$MODULE_DIR$/novel" />
+      <excludeFolder url="file://$MODULE_DIR$/novel_pic" />
+      <excludeFolder url="file://$MODULE_DIR$/video" />
+      <excludeFolder url="file://$MODULE_DIR$/novel_young" />
+      <excludeFolder url="file://$MODULE_DIR$/novel_young_pic" />
+      <excludeFolder url="file://$MODULE_DIR$/novel_xml_waist" />
+      <excludeFolder url="file://$MODULE_DIR$/novel_waist_pic" />
+      <excludeFolder url="file://$MODULE_DIR$/novel_xml_tight" />
+      <excludeFolder url="file://$MODULE_DIR$/novel_xml" />
+      <excludeFolder url="file://$MODULE_DIR$/novel_summary" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

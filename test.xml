@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+    <country name="Liechtenstein">
+        <rank>1</rank>
+        <year>2008</year>
+        <gdppc>141100</gdppc>
+        <neighbor name="Austria" direction="E"/>
+        <neighbor name="Switzerland" direction="W"/>
+    </country>
+    <country name="中国">
+        <rank>68</rank>
+        <year>2011</year>
+        <gdppc>13600</gdppc>
+        <neighbor name="赵三" direction="西边"/>
+        <neighbor name="李四" direction="东北"/>
+        <country name="中">
+            <rank>6</rank>
+            <year>201</year>
+            <gdppc>1360</gdppc>
+            <neighbor name="赵" direction="西"/>
+            <neighbor name="李" direction="东"/>
+        </country>
+    </country>
+</data>
